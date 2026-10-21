@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+source/obj/
+shoulder-camera*.json*
+.vs/
